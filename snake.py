@@ -23,6 +23,7 @@ def collide(x1, x2, y1, y2, w1, w2, h1, h2):
 	else:
 		return False
 
+#adding comment for no reason
 
 def display(screen,text):
 	print ('text=',text)
